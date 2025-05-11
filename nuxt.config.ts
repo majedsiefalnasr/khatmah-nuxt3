@@ -127,4 +127,8 @@ export default defineNuxtConfig({
   },
 
   modules: ['@nuxt/image', '@nuxtjs/seo'],
+
+  nitro: {
+    preset: 'vercel',
+  },
 });
