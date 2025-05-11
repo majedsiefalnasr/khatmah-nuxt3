@@ -13,7 +13,6 @@
           src="/images/Logo-Khatmah.png"
           height="48"
           alt="Khatmah"
-          placeholder="blurred"
           loading="lazy"
         />
       </NuxtLink>
@@ -86,7 +85,6 @@
     margin: 0 !important;
     background: #11664f0d;
     backdrop-filter: blur(10px);
-
     mask: paint(squircle);
     mask-image: paint(squircle);
     -webkit-mask: paint(squircle);
@@ -96,7 +94,6 @@
     mask-repeat: no-repeat;
     --squircle-smooth: 0.6;
     --squircle-radius: 20px;
-
     animation-name: animation-mainNavbar;
     animation-duration: 600ms; /* Duration of the animation */
     animation-timing-function: cubic-bezier(
@@ -122,7 +119,6 @@
       margin: 0 !important;
       background: #ffffffa3;
       backdrop-filter: blur(10px);
-
       mask: paint(squircle);
       mask-image: paint(squircle);
       -webkit-mask: paint(squircle);

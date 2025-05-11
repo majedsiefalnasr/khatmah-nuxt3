@@ -44,7 +44,6 @@
             <NuxtImg
               src="/images/hero-1.png"
               alt="Khatmah: Start Your Journey"
-              placeholder="blurred"
               loading="lazy"
             />
           </div>
@@ -52,7 +51,6 @@
             <NuxtImg
               src="/images/hero-2.png"
               alt="Khatmah: Start Your Journey"
-              placeholder="blurred"
               loading="lazy"
             />
           </div>
@@ -60,7 +58,6 @@
             <NuxtImg
               src="/images/hero-3.png"
               alt="Khatmah: Start Your Journey"
-              placeholder="blurred"
               loading="lazy"
             />
           </div>

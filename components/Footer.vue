@@ -9,7 +9,6 @@
             src="/images/Logo-Khatmah.png"
             height="48"
             alt="Khatmah"
-            placeholder="blurred"
             loading="lazy"
           />
           <p class="text-secondary small mb-0">

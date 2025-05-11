@@ -16,7 +16,6 @@
             <NuxtImg
               src="/images/rating-capterra.png"
               alt="Capterra Rating"
-              placeholder="blurred"
               loading="lazy"
             />
           </div>
@@ -26,7 +25,6 @@
             <NuxtImg
               src="/images/rating-trustpilot.png"
               alt="Trustpilot Rating"
-              placeholder="blurred"
               loading="lazy"
             />
           </div>
@@ -36,7 +34,6 @@
             <NuxtImg
               src="/images/rating-facebook.png"
               alt="Facebook Rating"
-              placeholder="blurred"
               loading="lazy"
             />
           </div>

@@ -8,7 +8,6 @@
         v-if="course.image"
         :src="course.image"
         class="img-fluid rounded"
-        placeholder="blurred"
         loading="lazy"
       />
     </div>
