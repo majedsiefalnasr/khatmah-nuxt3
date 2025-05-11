@@ -1,8 +1,10 @@
 <template>
   <div class="container py-3">
-    <Header />
-    <NuxtPage />
-    <Footer />
+    <ClientOnly>
+      <Header />
+      <NuxtPage />
+      <Footer />
+    </ClientOnly>
   </div>
 </template>
 
